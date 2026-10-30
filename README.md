@@ -1,2 +1,2 @@
 # Temporary
-This repository will be erased when the time comes
+This repository is temporary and will be deleted later.
